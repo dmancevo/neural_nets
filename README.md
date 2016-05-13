@@ -1,2 +1,10 @@
 # nlpNet
-Deep neural nets should be ideally trained on a GPU. The modules in this repository however, implement the models on top of a plain vanilla version of python and numpy, they are nonetheless a good ilustration of the concepts and a great exercise for those interested in understanding the ins and outs of deep learning.
+Plain vanilla implementation of word embeddings.
+
+Reference:
+
+Collobert, Ronan, et al. "Natural language processing (almost) from scratch." The Journal of Machine Learning Research 12 (2011): 2493-2537. (http://dl.acm.org/citation.cfm?id=2078186)
+
+To run:
+
+`python net_test.py`
